@@ -2,5 +2,5 @@
 git add .
 sleep 2
 git commit -m "whatever"
-sleep 2
+sleep 4
 git push
